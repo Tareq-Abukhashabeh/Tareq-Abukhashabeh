@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=39FF14&center=true&vCenter=true&width=440&height=45&lines=HI+there!;Iam+Tareq+Abu+Khashabeh;Cybersecurity+Student;Ethical+Hacker+in+Progress">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=39FF14&center=true&vCenter=true&width=440&height=45&lines=HI+there!;Iam+Tareq+Abu+Khashabeh;Aspiring +Cybersecurity;Welcome!">
   </a>
 </h1>
 
@@ -45,7 +45,7 @@ Hey there! 👋 I'm a Cybersecurity Student with a strong passion for network se
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tareq-abukhashabeh&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
