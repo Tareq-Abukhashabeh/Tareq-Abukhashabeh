@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=39FF14&center=true&vCenter=true&width=440&height=45&lines=HI+there!;Iam+Tareq+Abu+Khashabeh;Aspiring +Cybersecurity;Welcome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=39FF14&center=true&vCenter=true&width=440&height=45&lines=Hey+There!;Iam+Tareq+Abu+Khashabeh;Aspiring+Cybersecurity;Welcome!">
   </a>
 </h1>
 
