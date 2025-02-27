@@ -29,9 +29,9 @@ Hey there! 👋 I'm a Cybersecurity Student with a strong passion for network se
 
 
 # 📊 GitHub Stats:
-![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tareq-abukhashabeh&theme=radical&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=tareq-abukhashabeh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tareq-abukhashabeh&theme=github_dark&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tareq-abukhashabeh&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tareq-abukhashabeh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
