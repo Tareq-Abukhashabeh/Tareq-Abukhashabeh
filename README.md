@@ -8,7 +8,8 @@
 ---
 # 💫 About Me:
 Hey there! 👋 I'm a Cybersecurity Student with a strong passion for network security, ethical hacking, and penetration testing. While I'm still gaining experience, I learn fast and constantly push myself to improve my skills.<br><br>I have a solid foundation in network security, understand how to handle various cybersecurity tools, and love exploring new technologies. My goal is to become an expert in both offensive and defensive security while contributing to the cybersecurity community.<br>
-## 🌍 Programming & Scripting Skills<br>I believe that scripting is a must-have skill for every cybersecurity professional. I’m learning and improving my coding skills in:<br> Python – Automation, Security Scripting, Exploitation<br> Bash – Linux Scripting & Automation<br> JavaScript – Web Security & Exploitation<br><br><br>I’m always looking to expand my knowledge and learn new programming languages to help me in cybersecurity research and tool development.
+## 🌍 Programming & Scripting Skills<br>
+I believe that scripting is a must-have skill for every cybersecurity professional. I’m learning and improving my coding skills in:<br> Python – Automation, Security Scripting, Exploitation<br> Bash – Linux Scripting & Automation<br> JavaScript – Web Security & Exploitation<br><br><br>I’m always looking to expand my knowledge and learn new programming languages to help me in cybersecurity research and tool development.
 
 
 ## 🌐 Socials:
